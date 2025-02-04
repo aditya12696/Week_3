@@ -1,0 +1,2 @@
+Hello, this is a test file.
+It contains text in UTF-8 format.
